@@ -1,4 +1,7 @@
-module.export = function(){
+function greetings(){
 
-    console.log("Hey my name is Jonh");
+    console.log("Hey my name is João Gomes !!!!");
 } 
+
+
+module.export=greetings;

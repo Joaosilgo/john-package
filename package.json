@@ -1,5 +1,5 @@
 {
-  "name": "@joaogomes/john-package",
+  "name": "john-package",
   "version": "1.0.0",
   "description": "```bash\r npm i -s jonh-package\r ```",
   "main": "index.js",
