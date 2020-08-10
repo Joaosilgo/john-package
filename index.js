@@ -4,4 +4,4 @@ function greetings(){
 } 
 
 
-module.exports.exports = greetings;
+module.exports.greetings = greetings;
