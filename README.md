@@ -53,6 +53,6 @@ export default App;
 
 ## License
 
-### Made By [João Gomes](joaosilgo.github.io/joaogomes)
+### Made By [João Gomes](https://joaosilgo.github.io/joaogomes/)
 
 #### 
