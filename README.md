@@ -3,7 +3,7 @@
 ## 🎯 Install 
 
 ```bash
-npm i -s jonh-package
+npm i -s john-package
 ```
 
 ## 🧬 Usage 
