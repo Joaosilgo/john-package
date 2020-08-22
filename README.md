@@ -51,6 +51,21 @@ export default App;
 
 ```
 
+
+### Or
+
+```javascript
+...
+
+const john = require('john-package');
+
+
+john.greetings();
+   
+ ...  
+````
+
+
 ## License
 
 ### Made By [João Gomes](https://joaosilgo.github.io/joaogomes/)
