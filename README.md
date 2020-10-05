@@ -2,6 +2,16 @@
 
 ## 🎯 Install 
 
+
+
+### CDN
+```javascript
+ <script src="https://unpkg.com/john-package@1.0.3/index.js"></script>
+
+```
+
+### npm
+
 ```bash
 npm i -s john-package
 ```
